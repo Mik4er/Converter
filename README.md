@@ -24,9 +24,15 @@ Inch;0.0254
 ````
 How to Run
 Clone the repository to your local machine.
+
 Open the solution (.sln or .slnx file) in Visual Studio.
+
 Check Data Files: Ensure that length.txt, mass.txt, and volume.txt are included in the Project Explorer (Solution Explorer).
+
 Set File Properties (Crucial Step):
+
 Select the .txt files in the Visual Studio Solution Explorer.
+
 In the Properties window (press F4 if not visible), set "Copy to Output Directory" to "Copy Always".
+
 Build and Run: Press F5 or click the Start button to launch the application.
