@@ -1,0 +1,6 @@
+Milligram;0.001
+Gram;1
+Kilogram;1000
+Centner;100000
+Ton;1000000
+Pound;453.59
